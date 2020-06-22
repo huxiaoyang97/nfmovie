@@ -1,3 +1,12 @@
+Open a new React App, replace src with my src folder, npm start the app will show you the app.
+Befor you do that, use the index.js, in a different app, to node start the port 3001 as a source for JSON data.
+Start the 3001 port, run the react App, you can see the full picture.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
